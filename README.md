@@ -1,3 +1,3 @@
 # Primer-Escenario-2-routers
 
-![Captura de Pantalla] (captura.png)
+![Alt Captura de Pantalla](captura.png)
